@@ -10,7 +10,7 @@ Detailed information about the course is available in the dedicated web pages.
 |---------|---|--------|--------|
 | Course website | <http://bit.ly/polito-wa1> | <http://media.polito.it/aw1> | <http://bit.ly/polito-aw1> |
 | YouTube Playlist | [:arrow_forward:]()|  [:arrow_forward:]()| [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwSpuQoq51P9RekYzQc3Mvm2)|
-| GitHub repositories | <https://github.com/polito-WA1-2020> | <https://github.com/polito-WA1-2020> | <https://github.com/polito-WA1-2020> |
+| GitHub repositories | <https://github.com/polito-WA1-2021> | <https://github.com/polito-WA1-2021> | <https://github.com/polito-WA1-2021> |
 
 ## Slides
 
