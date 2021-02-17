@@ -8,8 +8,8 @@ Detailed information about the course is available in the dedicated web pages.
 
 | Resource | Web Applications I | Applicazioni Web I (A-L) |  Applicazioni Web I (M-Z) |
 |---------|---|--------|--------|
-| Course website | <http://bit.ly/polito-wa1> | <http://media.polito.it/aw1> | <http://bit.ly/polito-wa1> |
-| YouTube Playlist | [:arrow_forward:]()|  [:arrow_forward:]()| [:arrow_forward:]()|
+| Course website | <http://bit.ly/polito-wa1> | <http://media.polito.it/aw1> | <http://bit.ly/polito-aw1> |
+| YouTube Playlist | [:arrow_forward:]()|  [:arrow_forward:]()| [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwSpuQoq51P9RekYzQc3Mvm2)|
 | GitHub repositories | <https://github.com/polito-WA1-2020> | <https://github.com/polito-WA1-2020> | <https://github.com/polito-WA1-2020> |
 
 ## Slides
