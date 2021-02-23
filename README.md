@@ -15,7 +15,7 @@ Detailed information about the course is available in the dedicated web pages.
 
 ## Slides
 
-* Introduction to the course (prof. Corno)
+* [Introduction to the course (prof. Corno)](./slide/00-Intro-2021-Corno.pdf)
 * Introduction to the course (prof. Masala)
 * Introduction to the course (prof. De Russis)
 
