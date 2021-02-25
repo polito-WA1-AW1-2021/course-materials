@@ -21,7 +21,8 @@ Detailed information about the course is available in the dedicated web pages.
 
 Javascript
 
-* Introduction to JavaScript
+* [JavaScript (basics)](./slide/1-01-javascript-basics.pdf)
+* JavaScript: Objects and Functions
 * Asynchronouos JavaScript programming
 * Functional Programming in JS
 * Prototypes, Classes and Modules
