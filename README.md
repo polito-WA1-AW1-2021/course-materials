@@ -23,8 +23,9 @@ Javascript
 
 * [JavaScript (basics)](./slide/1-01-javascript-basics.pdf)
 * [JavaScript: Objects and Functions](./slide/1-02-javascript-objects-functions.pdf)
-* [Javascript Exercises](./slide/1-03-javascript-exercises.pdf)
+* [Javascript Exercises (Objects and Functions)](./slide/1-03-javascript-exercises.pdf)
 * [Asynchronouos JavaScript programming](./slide/1-04-javascript-async-programming.pdf)
+* [Javascript Exercises (Asynchronous programming)](./slide/1-05-javascript-async-exercises.pdf)
 * Prototypes, Classes and Modules
 * The 'this' keyword
 
