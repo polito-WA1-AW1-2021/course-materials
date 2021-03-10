@@ -30,7 +30,7 @@ Javascript
 
 Browsers and client-side applications
 
-* Web Architecture
+* [Web Architecture](./slide/2-01-web-architecture.pdf)
 * HTML - a quick introduction
 * CSS
 * JavaScript in the Browser
