@@ -32,8 +32,8 @@ Javascript
 Browsers and client-side applications
 
 * [Web Architecture](./slide/2-01-web-architecture.pdf)
-* HTML - a quick introduction
-* CSS
+* [HTML - a quick introduction](./slide/2-02-html.pdf)
+* [CSS: Cascading Style Sheets](./slide/2-03-css.pdf)
 * JavaScript in the Browser
 * HTML5 Forms
 * Fetch API
