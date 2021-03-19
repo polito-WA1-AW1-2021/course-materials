@@ -26,8 +26,8 @@ Javascript
 * [Javascript Exercises (Objects and Functions)](./slide/1-03-javascript-exercises.pdf)
 * [Asynchronouos JavaScript programming](./slide/1-04-javascript-async-programming.pdf)
 * [Javascript Exercises (Asynchronous programming)](./slide/1-05-javascript-async-exercises.pdf)
+* [The 'this' keyword](./slide/1-06-javascript-this.pdf)
 * Prototypes, Classes and Modules
-* The 'this' keyword
 
 Browsers and client-side applications
 
