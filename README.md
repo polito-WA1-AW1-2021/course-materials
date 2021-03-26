@@ -57,4 +57,5 @@ React
 * Lab 01: [Getting Started with NodeJS](./labs/L01-getting-started-node.pdf)
   - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab1-node)
 * Lab 02: [Getting Started with HTML and CSS](./labs/L02-getting-started-html-css.pdf)
-
+  - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab2-html-css)
+* Lab 03: [JS in the Browser](./labs/L03-javascript-browser.pdf)
