@@ -19,7 +19,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Introduction to the course (prof. Masala)](./slide/00-intro-2021-Masala.pdf)
 * [Introduction to the course (prof. De Russis)](./slide/00-intro-2021-DeRussis.pdf)
 
-Javascript
+### Javascript
 
 * [JavaScript (basics)](./slide/1-01-javascript-basics.pdf)
 * [JavaScript: Objects and Functions](./slide/1-02-javascript-objects-functions.pdf)
@@ -29,7 +29,7 @@ Javascript
 * [The 'this' keyword](./slide/1-06-javascript-this.pdf)
 * Prototypes, Classes and Modules
 
-Browsers and client-side applications
+### Browsers and client-side applications
 
 * [Web Architecture](./slide/2-01-web-architecture.pdf)
 * [HTML - a quick introduction](./slide/2-02-html.pdf)
@@ -37,24 +37,30 @@ Browsers and client-side applications
 * [JavaScript in the Browser](./slide/2-04-JS-browser.pdf)
 * Fetch API
 
-Web Servers and server-side APIs
+### React
+
+* [Introduction to React](./slide/3-01-React-intro.pdf)
+* [Components, Elements, JSX](./slide/3-02-Elements-and-JSX.pdf)
+* React Hooks
+* Context, Life Cycle, Forms
+* Client-Server interactions
+* React Router
+
+
+### Web Servers and server-side APIs
 
 * HTTP
 * Express web server
 * REST API
 
-React
-
-* Introduction to React
-* Components, Elements, JSX
-* React Hooks
-* Context, Life Cycle, Forms
-* Client-Server interactions
-* React Router
 
 ## Laboratories
 
 * Lab 01: [Getting Started with NodeJS](./labs/L01-getting-started-node.pdf)
   - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab1-node)
 * Lab 02: [Getting Started with HTML and CSS](./labs/L02-getting-started-html-css.pdf)
+  - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab2-html-css)
+* Lab 03: [JS in the Browser](./labs/L03-javascript-browser.pdf)
+  - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab3-javascript-browser)
+
 
