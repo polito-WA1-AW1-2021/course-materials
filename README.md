@@ -41,10 +41,11 @@ Detailed information about the course is available in the dedicated web pages.
 
 * [Introduction to React](./slide/3-01-React-intro.pdf)
 * [Components, Elements, JSX](./slide/3-02-Elements-and-JSX.pdf)
-* React Hooks
-* Context, Life Cycle, Forms
-* Client-Server interactions
+* [React Hooks (part 1 - `useState`)](./slide/3-03-Hooks-part1.pdf)
+* [Components and State](./slide/3-04-Components-and-state.pdf)
+* Handling Forms in React
 * React Router
+* Client-Server interactions
 
 
 ### Web Servers and server-side APIs
