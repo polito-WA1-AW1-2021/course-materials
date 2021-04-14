@@ -57,14 +57,14 @@ Detailed information about the course is available in the dedicated web pages.
 
 ## Laboratories
 
+* [Instruction for GitHub Classroom](./labs/GH-Classroom-BigLab-Instructions.pdf) 
+
 * Lab 01: [Getting Started with NodeJS](./labs/L01-getting-started-node.pdf)
   - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab1-node)
 * Lab 02: [Getting Started with HTML and CSS](./labs/L02-getting-started-html-css.pdf)
   - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab2-html-css)
 * Lab 03: [JS in the Browser](./labs/L03-javascript-browser.pdf)
   - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab3-javascript-browser)
-
-* [Instruction for GitHub Classroom](./labs/GH-Classroom-BigLab-Instructions.pdf) 
 * BigLab 01: [ToDo List in React](./labs/BigLab1/BigLab1.pdf)
   - Part A: [Getting Started with React](./labs/BigLab1/BigLab1a.pdf)
   - Part B
