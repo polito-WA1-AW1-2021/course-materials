@@ -63,9 +63,9 @@ Detailed information about the course is available in the dedicated web pages.
   - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab2-html-css)
 * Lab 03: [JS in the Browser](./labs/L03-javascript-browser.pdf)
   - [Proposed solution](https://github.com/polito-WA1-AW1-2021/lab3-javascript-browser)
-* [Instruction for GitHub Classroom](./labs/GH-Classroom-BigLab-Instructions.pdf) 
+* [Instruction for GitHub Classroom](./labs/GH-Classroom-BigLab-Instructions.pdf)
 * BigLab 01: [ToDo List in React](./labs/BigLab1/BigLab1.pdf)
   - Part A: [Getting Started with React](./labs/BigLab1/BigLab1a.pdf)
-  - Part B
+  - Part B: [React Components' State](./labs/BigLab1/BigLab1b.pdf)
   - Part C
   - Part D
