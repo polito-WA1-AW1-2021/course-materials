@@ -11,6 +11,7 @@ Detailed information about the course is available in the dedicated web pages.
 | Web Applications I |  <http://bit.ly/polito-wa1> | [:arrow_forward:](https://youtube.com/playlist?list=PLqRTLlwsxDL9vSKdXgAm-_LMHl-AoK7ET) | <https://github.com/polito-WA1-AW1-2021> |
 | Applicazioni Web I (A-L) |  <http://media.polito.it/aw1> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLuZyhAOPm9pMeztcby2E7B2QsLVgW_bK8)  | <https://github.com/polito-WA1-AW1-2021> |
 | Applicazioni Web I (M-Z) |  <http://bit.ly/polito-aw1> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwSpuQoq51P9RekYzQc3Mvm2) | <https://github.com/polito-WA1-AW1-2021> |
+|
 
 
 ## Slides
@@ -43,7 +44,8 @@ Detailed information about the course is available in the dedicated web pages.
 * [Components, Elements, JSX](./slide/3-02-Elements-and-JSX.pdf)
 * [React Hooks (part 1 - `useState`)](./slide/3-03-Hooks-part1.pdf)
 * [Components and State](./slide/3-04-Components-and-state.pdf)
-* Handling Forms in React
+* [Handling Forms in React](./slide/3-05-Forms.pdf)
+* [Context in React](./slide/3-06-Context.pdf)
 * React Router
 * Client-Server interactions
 
