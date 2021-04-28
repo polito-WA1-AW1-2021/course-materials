@@ -28,7 +28,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Asynchronouos JavaScript programming](./slide/1-04-javascript-async-programming.pdf)
 * [Javascript Exercises (Asynchronous programming)](./slide/1-05-javascript-async-exercises.pdf)
 * [The 'this' keyword](./slide/1-06-javascript-this.pdf)
-* Prototypes, Classes and Modules
+* [Prototypes, Classes and Modules](./slide/1-07-javascript-classes.pdf)
 
 ### Browsers and client-side applications
 
@@ -46,7 +46,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Components and State](./slide/3-04-Components-and-state.pdf)
 * [Handling Forms in React](./slide/3-05-Forms.pdf)
 * [Context in React](./slide/3-06-Context.pdf)
-* React Router
+* [React Router](./slide/3-07-React-Router.pdf)
 * Client-Server interactions
 
 
