@@ -70,4 +70,4 @@ Detailed information about the course is available in the dedicated web pages.
   - Part A: [Getting Started with React](./labs/BigLab1/BigLab1a.pdf)
   - Part B: [React Components' State](./labs/BigLab1/BigLab1b.pdf)
   - Part C: [Filters & Forms](./labs/BigLab1/BigLab1c.pdf)
-  - Part D
+  - Part D: [React Routes](./labs/BigLab1/BigLab1d.pdf)
