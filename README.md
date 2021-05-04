@@ -52,9 +52,8 @@ Detailed information about the course is available in the dedicated web pages.
 
 ### Web Servers and server-side APIs
 
-* HTTP
-* Express web server
-* REST API
+* [Express web server](./slide/4-01-Express.pdf)
+* [HTTP APIs](./slide/4-02-API.pdf)
 
 
 ## Laboratories
