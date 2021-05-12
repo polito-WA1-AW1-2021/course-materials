@@ -35,7 +35,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [HTML - a quick introduction](./slide/2-02-html.pdf)
 * [CSS: Cascading Style Sheets](./slide/2-03-css.pdf)
 * [JavaScript in the Browser](./slide/2-04-JS-browser.pdf)
-* Fetch API
+* [Fetch API](./slide/2-05-Fetch.pdf)
 
 ### React
 
@@ -46,7 +46,8 @@ Detailed information about the course is available in the dedicated web pages.
 * [Handling Forms in React](./slide/3-05-Forms.pdf)
 * [Context in React](./slide/3-06-Context.pdf)
 * [React Router](./slide/3-07-React-Router.pdf)
-* Client-Server interactions
+* [Client-Server interaction in React](./slide/3-08-Client-Server-React.pdf)
+* [React Life Cycle  (part 1)](./3-09-LifeCycle-part1.pdf)
 
 
 ### Web Servers and server-side APIs
