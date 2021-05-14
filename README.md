@@ -72,6 +72,6 @@ Detailed information about the course is available in the dedicated web pages.
   - Part D: [React Routes](./labs/BigLab1/BigLab1d.pdf)
 * BigLab 2: [Full Stack ToDo List](./labs/BigLab2/BigLab2.pdf)
   - Part A: [APIs with Express](./labs/BigLab2/BigLab2a.pdf)
-  - Part B: APIs Integration
+  - Part B: [APIs Integration](./labs/BigLab2/BigLab2b.pdf)
   - Part C: Complete APIs Integration
   - Part D: Authentication
