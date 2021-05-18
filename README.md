@@ -47,7 +47,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Context in React](./slide/3-06-Context.pdf)
 * [React Router](./slide/3-07-React-Router.pdf)
 * [Client-Server interaction in React](./slide/3-08-Client-Server-React.pdf)
-* [React Life Cycle  (part 1)](./slide/3-09-LifeCycle-part1.pdf)
+* [React Life Cycle](./slide/3-09-LifeCycle.pdf)
 
 
 ### Web Servers and server-side APIs
