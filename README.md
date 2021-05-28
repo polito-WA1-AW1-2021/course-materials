@@ -49,7 +49,6 @@ Detailed information about the course is available in the dedicated web pages.
 * [Client-Server interaction in React](./slide/3-08-Client-Server-React.pdf)
 * [React Life Cycle](./slide/3-09-LifeCycle.pdf)
 
-
 ### Web Servers and server-side APIs
 
 * [Express web server](./slide/4-01-Express.pdf)
@@ -75,4 +74,4 @@ Detailed information about the course is available in the dedicated web pages.
   - Part A: [APIs with Express](./labs/BigLab2/BigLab2a.pdf)
   - Part B: [APIs Integration](./labs/BigLab2/BigLab2b.pdf)
   - Part C: [Complete APIs Integration](./labs/BigLab2/BigLab2c.pdf)
-  - Part D: Authentication
+  - Part D: [Authentication](./labs/BigLab2/BigLab2d.pdf)
