@@ -55,6 +55,10 @@ Detailed information about the course is available in the dedicated web pages.
 * [HTTP APIs](./slide/4-02-API.pdf)
 * [Authentication](./slide/4-03-Authentication.pdf)
 
+### Seminars
+
+* [Development and testing in Consoft Sistemi](./slide/seminario-consoft.pdf) [ita]
+
 
 ## Laboratories
 
@@ -75,3 +79,4 @@ Detailed information about the course is available in the dedicated web pages.
   - Part B: [APIs Integration](./labs/BigLab2/BigLab2b.pdf)
   - Part C: [Complete APIs Integration](./labs/BigLab2/BigLab2c.pdf)
   - Part D: [Authentication](./labs/BigLab2/BigLab2d.pdf)
+* Lab 04 : Deploy of a React+Express app
