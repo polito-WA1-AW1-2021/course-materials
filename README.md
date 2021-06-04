@@ -79,4 +79,4 @@ Detailed information about the course is available in the dedicated web pages.
   - Part B: [APIs Integration](./labs/BigLab2/BigLab2b.pdf)
   - Part C: [Complete APIs Integration](./labs/BigLab2/BigLab2c.pdf)
   - Part D: [Authentication](./labs/BigLab2/BigLab2d.pdf)
-* Lab 04 : Deploy of a React+Express app
+* Lab 04 : [Deployment of a React+Express app on Heroku](./labs/L04-cloud-deployment.pdf)
